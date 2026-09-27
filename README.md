@@ -121,3 +121,26 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/YOUR-USERNAME/vision-based-industrial-safety-monitoring.git
+
+---
+
+## 🖥️ Demo / Output
+
+### Real-Time Pose Detection
+
+The system detects the human body and displays the corresponding skeletal keypoints using YOLOv8-Pose.
+
+### Posture Classification
+
+The system classifies the detected posture as:
+
+- Standing
+- Sitting
+- Sleeping
+- Bending
+
+### Bending Alert
+
+When an unsafe bending posture is detected, the system displays a warning on the video frame and generates an audio alert.
+
+<!-- Add screenshots here -->
