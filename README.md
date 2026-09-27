@@ -120,9 +120,9 @@ The implementation uses the `yolov8n-pose.pt` model and processes webcam frames 
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/vision-based-industrial-safety-monitoring.git
-
----
+git clone https://github.com/Kavanagunaga/vision-based-industrial-safety-monitoring.git
+cd vision-based-industrial-safety-monitoring
+pip install -r requirements.txt
 
 ## 🖥️ Demo / Output
 
