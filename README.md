@@ -139,6 +139,18 @@ The system classifies the detected posture as:
 - Sleeping
 - Bending
 
+## 📁 Project Structure
+
+```text
+vision-based-industrial-safety-monitoring/
+│
+├── README.md
+├── requirements.txt
+├── .gitignore
+├── safety_monitor.py
+├── ml_paper_with_authors.pdf
+└── LICENSE
+
 ### Bending Alert
 
 When an unsafe bending posture is detected, the system displays a warning on the video frame and generates an audio alert.
