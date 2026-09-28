@@ -328,7 +328,7 @@ vision-based-industrial-safety-monitoring/
 ├── .gitignore
 ├── safety_monitor.py
 ├── ml_paper_with_authors.pdf
-└── LICENSE
+
 ```
 
 ### File Description
@@ -339,7 +339,6 @@ vision-based-industrial-safety-monitoring/
 | `requirements.txt` | Python dependencies required to run the project |
 | `.gitignore` | Files and folders excluded from Git tracking |
 | `ml_paper_with_authors.pdf` | Research paper related to the project |
-| `LICENSE` | License information for the project |
 | `README.md` | Project documentation and usage instructions |
 
 ---
@@ -373,13 +372,6 @@ KLE Technological University, Hubli, India
 
 ---
 
-## 📜 License
-
-This project is intended for academic and educational purposes.
-
-See the `LICENSE` file for the applicable license terms.
-
----
 
 ## ⭐ Acknowledgements
 
